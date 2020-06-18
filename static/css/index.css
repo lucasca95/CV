@@ -1,0 +1,31 @@
+@media screen and (max-width: 420px) {
+  #top {
+    background-color: #325732;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 30%; }
+    #top #me {
+      position: absolute;
+      background-color: #5eaf5e;
+      text-align: center; }
+      #top #me #me_img {
+        background-color: #af935e;
+        position: absolute;
+        top: 1%;
+        left: 0;
+        right: 0; }
+      #top #me #me_name {
+        background-color: #5e78af;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 20px; }
+        #top #me #me_name #me__name {
+          font-size: 10px; }
+      #top #me #me_degree {
+        background-color: #491246; } }
+
+/*# sourceMappingURL=index.css.map */

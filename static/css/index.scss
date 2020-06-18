@@ -1,0 +1,38 @@
+
+@media screen and (max-width: 420px){
+    #top{
+        background-color: rgb(50, 87, 50);
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 30%;
+        #me{
+            position: absolute;
+            background-color: rgb(94, 175, 94);
+            text-align: center;
+            #me_img{
+                background-color: rgb(175, 147, 94);
+                position: absolute;
+                top: 1%;
+                left: 0;
+                right: 0;
+            }
+            #me_name{
+                background-color: rgb(94, 120, 175);
+                position: absolute;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 20px;
+                #me__name{
+                    font-size: 10px;
+                }
+            }
+            #me_degree{
+                // position: absolute;
+                background-color: rgb(73, 18, 70);
+            }
+        }
+    }
+}
